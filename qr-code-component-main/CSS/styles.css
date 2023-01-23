@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    background-color:hsl(220, 15%, 55%);
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    margin: auto;
+}
+.qr {
+   margin: auto;
+    position: relative;
+    left: 50%;
+    width: 50%;
+    margin-top: 500px;
+}
+
+.qr-box {
+    width: 15%;
+    background-color: aliceblue;
+    
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+
+.qr-img {
+    margin: auto;
+    width: 100%;
+}
